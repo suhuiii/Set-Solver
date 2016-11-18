@@ -12,8 +12,8 @@ In other words, if a group of three cards can be sorted to "two of __ and one of
 
 ##Usage
 The program lets the user input three cards, and checks if the three cards belong to a set.
-If the cards satisfy the conditions as stated above, it will print "SET!".
-Otherwise, it will print "Not a set...""
+- If the cards satisfy the conditions as stated above, it will print "SET!".
+- Otherwise, it will print "Not a set...""
 
 ## Executing the Build
 You can execute the build using one of the following commands from the root of the project:
