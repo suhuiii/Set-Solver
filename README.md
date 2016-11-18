@@ -11,7 +11,7 @@ A set consists of three cards which satisfy all of these conditions:
 In other words, if a group of three cards can be sorted to "two of __ and one of __", then the group is not a set.
 
 ##Usage
-The program lets the user input three cards, and checks if the three cards belong to a set
+The program lets the user input three cards, and checks if the three cards belong to a set.
 If the cards satisfy the conditions as stated above, it will print "SET!".
 Otherwise, it will print "Not a set...""
 
@@ -23,6 +23,6 @@ You can execute the build using one of the following commands from the root of t
 
 
 ##Task List
-1) Given two cards, find a third card that will form a set
-2) Given a list of cards, find all sets
+1. Given two cards, find a third card that will form a set
+2. Given a list of cards, find all sets
 
